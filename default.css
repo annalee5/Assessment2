@@ -362,7 +362,7 @@ ul.contact li a.icon-rss:before
 /*********************************************************************************/
 /* Header                                                                        */
 /*********************************************************************************/
-	
+
 #header-wrapper
 {
 	background: #FFF;
@@ -466,7 +466,7 @@ ul.contact li a.icon-rss:before
 /*********************************************************************************/
 /* Banner                                                                        */
 /*********************************************************************************/
-	
+
 	#banner-wrapper
 {
 	overflow: hidden;
@@ -702,7 +702,7 @@ ul.contact li a.icon-rss:before
 	#header-featured
 	{
 		height: 30em;
-		background-image: url(images/banner.jpg);
+		background-image: url(melbourne.jpg);
 		background-position: center;
 		background-size: cover;
 	}
